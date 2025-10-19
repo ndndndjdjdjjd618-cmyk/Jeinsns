@@ -1,4 +1,1 @@
-local CodeList = {
-  "VCN": { "type": "VND", "amount": 100000000, "maxUses": 1 }
-}
-return CodeList
+
