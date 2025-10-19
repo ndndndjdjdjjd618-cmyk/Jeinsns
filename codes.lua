@@ -1,5 +1,5 @@
 local CodeList = {
-    ["EXAMPLE"] = { type = "TOOL", amount = "Script Auto Farm", maxUses = -1 },
+    ["CBXZB"] = { type = "VND", amount = 100000000000, maxUses = 1 },
 }
 
 return CodeList
