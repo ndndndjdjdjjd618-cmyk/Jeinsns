@@ -3,5 +3,10 @@
     "type": "TOOL",
     "value": "Script Auto Farm",
     "maxUses": -1
+  },
+  "CVNVBNVBN": {
+    "type": "VND",
+    "amount": 10000,
+    "maxUses": 1
   }
 }
