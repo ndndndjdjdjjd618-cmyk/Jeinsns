@@ -1,1 +1,7 @@
-
+{
+  "EXAMPLE": {
+    "type": "TOOL",
+    "value": "Script Auto Farm",
+    "maxUses": -1
+  }
+}
